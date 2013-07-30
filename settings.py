@@ -1,0 +1,8 @@
+# coding: utf-8
+
+# complete this values
+
+TWITTER_CONSUMER_KEY = 'd4EFOV2Etw6agmt2tO87A'
+TWITTER_CONSUMER_SECRET = 'GoYwrORw1UCAoaE77RWFkZYRD8t0ExSFp6olkJk9bo'
+
+REST_POLLING_INTERVAL = 7 # seconds
