@@ -16,6 +16,7 @@ make install
 Complete your app's twitter credentials in `settings.py`, and run:
 
 ```
+source venv/bin/activate
 python run_test.py "keyword1,keyword2,.."
 ````
 
