@@ -11,7 +11,7 @@ sudo easy_install virtualenv
 make install
 ```
 
-### Running
+## Running
 
 Complete your app's twitter credentials in `settings.py`, and run:
 
