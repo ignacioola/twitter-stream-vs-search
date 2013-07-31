@@ -1,6 +1,6 @@
 # coding: utf-8
 
-# complete this values
+# complete these values
 
 TWITTER_CONSUMER_KEY = None
 TWITTER_CONSUMER_SECRET = None
