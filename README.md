@@ -20,4 +20,4 @@ $ source venv/bin/activate
 $ python run_test.py "keyword1,keyword2,.."
 ````
 
-Hit `CTRL+C` to end the test, and see results.
+Hit `CTRL+C` to end the test and see results.
