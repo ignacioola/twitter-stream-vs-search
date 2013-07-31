@@ -13,7 +13,7 @@ $ make install
 
 ## Running
 
-Complete your app's twitter credentials in `settings.py`, and run:
+Complete your app's twitter credentials in `settings.py` and run:
 
 ```
 $ source venv/bin/activate
